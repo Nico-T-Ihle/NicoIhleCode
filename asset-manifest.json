@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NicoIhleCode/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/NicoIhleCode/static/js/main.d16556f5.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.d16556f5.chunk.js.map",
+    "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.5f0451f2.js",
+    "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.5f0451f2.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.33b7f6cc.chunk.js": "/NicoIhleCode/static/js/2.33b7f6cc.chunk.js",
+    "static/js/2.33b7f6cc.chunk.js.map": "/NicoIhleCode/static/js/2.33b7f6cc.chunk.js.map",
+    "static/js/3.12403187.chunk.js": "/NicoIhleCode/static/js/3.12403187.chunk.js",
+    "static/js/3.12403187.chunk.js.map": "/NicoIhleCode/static/js/3.12403187.chunk.js.map",
+    "index.html": "/NicoIhleCode/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/NicoIhleCode/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.33b7f6cc.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.33b7f6cc.chunk.js.LICENSE.txt",
+    "static/media/ContainerBild.279aa6ba.JPG": "/NicoIhleCode/static/media/ContainerBild.279aa6ba.JPG",
+    "static/media/DSC0E0171.e5ac5e2b.JPG": "/NicoIhleCode/static/media/DSC0E0171.e5ac5e2b.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f0451f2.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.33b7f6cc.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.d16556f5.chunk.js"
+  ]
+}
