@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NicoIhleCode/static/css/main.04027f19.chunk.css",
-    "main.js": "/NicoIhleCode/static/js/main.397728fc.chunk.js",
-    "main.js.map": "/NicoIhleCode/static/js/main.397728fc.chunk.js.map",
+    "main.js": "/NicoIhleCode/static/js/main.b592c670.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.b592c670.chunk.js.map",
     "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.5f0451f2.js",
     "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.5f0451f2.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
@@ -14,9 +14,9 @@
     "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.04027f19.chunk.css.map": "/NicoIhleCode/static/css/main.04027f19.chunk.css.map",
     "static/js/2.33b7f6cc.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.33b7f6cc.chunk.js.LICENSE.txt",
+    "static/media/Brilliant - 54616.8c3ee825.mp4": "/NicoIhleCode/static/media/Brilliant - 54616.8c3ee825.mp4",
     "static/media/ContainerBild.279aa6ba.JPG": "/NicoIhleCode/static/media/ContainerBild.279aa6ba.JPG",
     "static/media/DSC0E0171.e5ac5e2b.JPG": "/NicoIhleCode/static/media/DSC0E0171.e5ac5e2b.JPG",
-    "static/media/Isolated - 52130.9086e182.mp4": "/NicoIhleCode/static/media/Isolated - 52130.9086e182.mp4",
     "static/media/App.css": "/NicoIhleCode/static/media/Unbenannt6.63a9c326.png"
   },
   "entrypoints": [
@@ -24,6 +24,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.33b7f6cc.chunk.js",
     "static/css/main.04027f19.chunk.css",
-    "static/js/main.397728fc.chunk.js"
+    "static/js/main.b592c670.chunk.js"
   ]
 }
