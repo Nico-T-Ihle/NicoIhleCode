@@ -1,30 +1,37 @@
 {
   "files": {
-    "main.css": "/NicoIhleCode/static/css/main.0337ba04.chunk.css",
-    "main.js": "/NicoIhleCode/static/js/main.67008915.chunk.js",
-    "main.js.map": "/NicoIhleCode/static/js/main.67008915.chunk.js.map",
+    "main.css": "/NicoIhleCode/static/css/main.90e4f8c1.chunk.css",
+    "main.js": "/NicoIhleCode/static/js/main.dd68cd52.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.dd68cd52.chunk.js.map",
     "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.89e1696e.js",
     "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.89e1696e.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.7b2045fb.chunk.js": "/NicoIhleCode/static/js/2.7b2045fb.chunk.js",
-    "static/js/2.7b2045fb.chunk.js.map": "/NicoIhleCode/static/js/2.7b2045fb.chunk.js.map",
+    "static/js/2.0e219f33.chunk.js": "/NicoIhleCode/static/js/2.0e219f33.chunk.js",
+    "static/js/2.0e219f33.chunk.js.map": "/NicoIhleCode/static/js/2.0e219f33.chunk.js.map",
     "static/js/3.5881d933.chunk.js": "/NicoIhleCode/static/js/3.5881d933.chunk.js",
     "static/js/3.5881d933.chunk.js.map": "/NicoIhleCode/static/js/3.5881d933.chunk.js.map",
     "index.html": "/NicoIhleCode/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.0337ba04.chunk.css.map": "/NicoIhleCode/static/css/main.0337ba04.chunk.css.map",
-    "static/js/2.7b2045fb.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.7b2045fb.chunk.js.LICENSE.txt",
+    "static/css/main.90e4f8c1.chunk.css.map": "/NicoIhleCode/static/css/main.90e4f8c1.chunk.css.map",
+    "static/js/2.0e219f33.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.0e219f33.chunk.js.LICENSE.txt",
+    "static/media/20190930294html5_css3_new.ebb11477.jpg": "/NicoIhleCode/static/media/20190930294html5_css3_new.ebb11477.jpg",
+    "static/media/376120_java-hd-wallpapers_1600x1280_h.9146d3ea.png": "/NicoIhleCode/static/media/376120_java-hd-wallpapers_1600x1280_h.9146d3ea.png",
     "static/media/ContainerBild.279aa6ba.JPG": "/NicoIhleCode/static/media/ContainerBild.279aa6ba.JPG",
     "static/media/DSC0E0171.e5ac5e2b.JPG": "/NicoIhleCode/static/media/DSC0E0171.e5ac5e2b.JPG",
     "static/media/Isolated - 52130.9086e182.mp4": "/NicoIhleCode/static/media/Isolated - 52130.9086e182.mp4",
-    "static/media/App.css": "/NicoIhleCode/static/media/Unbenannt6.9b4f4950.png",
+    "static/media/JAVASCRIPT.2e10b2a2.png": "/NicoIhleCode/static/media/JAVASCRIPT.2e10b2a2.png",
+    "static/media/SEO.d5688f95.jpg": "/NicoIhleCode/static/media/SEO.d5688f95.jpg",
+    "static/media/node.js-logo.8c5d165c.png": "/NicoIhleCode/static/media/node.js-logo.8c5d165c.png",
+    "static/media/php-icon.dc081b76.jpg": "/NicoIhleCode/static/media/php-icon.dc081b76.jpg",
+    "static/media/react-1-logo-png-transparent.6bcffb56.png": "/NicoIhleCode/static/media/react-1-logo-png-transparent.6bcffb56.png",
+    "static/media/swift-og.d0cf8dd3.png": "/NicoIhleCode/static/media/swift-og.d0cf8dd3.png",
     "static/media/undraw_Mobile_apps_re_3wjf.8d512c79.svg": "/NicoIhleCode/static/media/undraw_Mobile_apps_re_3wjf.8d512c79.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.89e1696e.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.7b2045fb.chunk.js",
-    "static/css/main.0337ba04.chunk.css",
-    "static/js/main.67008915.chunk.js"
+    "static/js/2.0e219f33.chunk.js",
+    "static/css/main.90e4f8c1.chunk.css",
+    "static/js/main.dd68cd52.chunk.js"
   ]
 }
