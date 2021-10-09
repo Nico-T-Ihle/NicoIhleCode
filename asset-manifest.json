@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/NicoIhleCode/static/css/main.39861827.chunk.css",
-    "main.js": "/NicoIhleCode/static/js/main.bdcfed4d.chunk.js",
-    "main.js.map": "/NicoIhleCode/static/js/main.bdcfed4d.chunk.js.map",
+    "main.css": "/NicoIhleCode/static/css/main.d089e62f.chunk.css",
+    "main.js": "/NicoIhleCode/static/js/main.10f14d75.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.10f14d75.chunk.js.map",
     "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.346694dc.js",
     "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.346694dc.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
@@ -12,15 +12,15 @@
     "static/js/3.2906b3fa.chunk.js.map": "/NicoIhleCode/static/js/3.2906b3fa.chunk.js.map",
     "index.html": "/NicoIhleCode/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.39861827.chunk.css.map": "/NicoIhleCode/static/css/main.39861827.chunk.css.map",
+    "static/css/main.d089e62f.chunk.css.map": "/NicoIhleCode/static/css/main.d089e62f.chunk.css.map",
     "static/js/2.11171d0d.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.11171d0d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/NicoIhleCode/static/media/Screenshot (14).5359422e.png"
+    "static/media/App.css": "/NicoIhleCode/static/media/iphonebackgroundimage.37528470.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.346694dc.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.11171d0d.chunk.js",
-    "static/css/main.39861827.chunk.css",
-    "static/js/main.bdcfed4d.chunk.js"
+    "static/css/main.d089e62f.chunk.css",
+    "static/js/main.10f14d75.chunk.js"
   ]
 }
