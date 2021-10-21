@@ -1,0 +1,117 @@
+section{
+
+
+        width: 100%;
+  
+     
+        animation: stars 50s linear infinite;
+        overflow: hidden;
+    }
+    
+    .stars{
+        position: fixed;
+    
+        top: 50%;
+        left: 70%;
+        width: 3px;
+        height:3px;
+        background-color: white;
+        border-radius: 50%;
+        box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.1);
+        animation: animate 2s linear infinite;
+    }
+    
+    .stars::before{
+        content: '';
+       
+        position: fixed;
+        top: 50%;
+        transform: translateY(0%);
+        width: 300px;
+        height: 1px;
+        background: linear-gradient(90deg, #fff, transparent);
+    }
+    
+    @keyframes animate {
+        
+        0%{
+            transform: rotate(228deg) translateX(0);
+            opacity: 1;
+        }
+    
+        70%{
+            opacity: 1;
+        }
+    
+        100%{
+            transform: rotate(228deg) translateX(-1000px);
+            opacity: 1;
+        }
+    }
+    
+    .stars:nth-child(1){
+        top: 0;
+        height: 0;
+        animation-delay: 0;
+        animation-duration: 1s;
+    }
+    
+    .stars:nth-child(2){
+        top: 80px;
+        height: 0;
+        left: 20%;
+        animation-delay: 0.2s;
+        animation-duration: 2s;
+    }
+    
+    .stars:nth-child(3){
+        top: 80px;
+        height: 0;
+        left: 70%;
+        animation-delay: 0.1s;
+        animation-duration: 4s;
+    }
+    
+    .stars:nth-child(4){
+        top: 80px;
+        height: 0;
+       right: 90%;
+        animation-delay: 0.1s;
+        animation-duration: 4s;
+    }
+    
+    .stars:nth-child(5){
+        top: 900px;
+        height: 0;
+        right: 50px;
+        animation-delay: 0.1s;
+        animation-duration: 2s;
+    }
+    
+    .stars:nth-child(6){
+    
+        height: 0;
+        right: 50px;
+        animation-delay: 0.2s;
+        animation-duration: 1s;
+    }
+    
+    .stars:nth-child(7){
+        top: 70px;
+        height: 0;
+        left: 30%;
+        animation-delay: 0.4s;
+        animation-duration: 1s;
+    }
+    
+    .stars:nth-child(8){
+        top: 90px;
+        height: 0;
+        left: 10%;
+        animation-delay: 0.3s;
+        animation-duration: 1s;
+    }
+
+    .test{
+            background-color: #fff;
+    }
