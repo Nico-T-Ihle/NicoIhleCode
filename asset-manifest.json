@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/NicoIhleCode/static/css/main.c3b15d12.chunk.css",
-    "main.js": "/NicoIhleCode/static/js/main.4a83d81b.chunk.js",
-    "main.js.map": "/NicoIhleCode/static/js/main.4a83d81b.chunk.js.map",
-    "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.f6c2ab2d.js",
-    "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.f6c2ab2d.js.map",
+    "main.css": "/NicoIhleCode/static/css/main.5eaa268e.chunk.css",
+    "main.js": "/NicoIhleCode/static/js/main.f83428ad.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.f83428ad.chunk.js.map",
+    "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.a47534bb.js",
+    "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.a47534bb.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.c8f74d9b.chunk.js": "/NicoIhleCode/static/js/2.c8f74d9b.chunk.js",
-    "static/js/2.c8f74d9b.chunk.js.map": "/NicoIhleCode/static/js/2.c8f74d9b.chunk.js.map",
-    "static/js/3.d1ae564f.chunk.js": "/NicoIhleCode/static/js/3.d1ae564f.chunk.js",
-    "static/js/3.d1ae564f.chunk.js.map": "/NicoIhleCode/static/js/3.d1ae564f.chunk.js.map",
+    "static/js/2.0c9d138a.chunk.js": "/NicoIhleCode/static/js/2.0c9d138a.chunk.js",
+    "static/js/2.0c9d138a.chunk.js.map": "/NicoIhleCode/static/js/2.0c9d138a.chunk.js.map",
+    "static/js/3.1cafaca8.chunk.js": "/NicoIhleCode/static/js/3.1cafaca8.chunk.js",
+    "static/js/3.1cafaca8.chunk.js.map": "/NicoIhleCode/static/js/3.1cafaca8.chunk.js.map",
     "index.html": "/NicoIhleCode/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.c3b15d12.chunk.css.map": "/NicoIhleCode/static/css/main.c3b15d12.chunk.css.map",
-    "static/js/2.c8f74d9b.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.c8f74d9b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/NicoIhleCode/static/media/shridhar-thorat-RQ1X0LPWuk8-unsplash.30b3613d.jpg",
-    "static/media/php-icon.dc081b76.jpg": "/NicoIhleCode/static/media/php-icon.dc081b76.jpg"
+    "static/css/main.5eaa268e.chunk.css.map": "/NicoIhleCode/static/css/main.5eaa268e.chunk.css.map",
+    "static/js/2.0c9d138a.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.0c9d138a.chunk.js.LICENSE.txt",
+    "static/media/DSC0E0172.feffb394.JPG": "/NicoIhleCode/static/media/DSC0E0172.feffb394.JPG",
+    "static/media/DSC0E0324.279aa6ba.JPG": "/NicoIhleCode/static/media/DSC0E0324.279aa6ba.JPG",
+    "static/media/apfel(1).31a8206d.png": "/NicoIhleCode/static/media/apfel(1).31a8206d.png",
+    "static/media/apfel.5e140fc5.png": "/NicoIhleCode/static/media/apfel.5e140fc5.png",
+    "static/media/bestande.a1c58e17.png": "/NicoIhleCode/static/media/bestande.a1c58e17.png",
+    "static/media/botschaft.a6fbe1dc.png": "/NicoIhleCode/static/media/botschaft.a6fbe1dc.png",
+    "static/media/safari.b75a2da9.png": "/NicoIhleCode/static/media/safari.b75a2da9.png",
+    "static/media/App.css": "/NicoIhleCode/static/media/wp4978496-kawaii-pixel-purple-wallpapers.56590103.jpg",
+    "static/media/undraw_personalization_re_grty.0417656e.svg": "/NicoIhleCode/static/media/undraw_personalization_re_grty.0417656e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6c2ab2d.js",
+    "static/js/runtime-main.a47534bb.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.c8f74d9b.chunk.js",
-    "static/css/main.c3b15d12.chunk.css",
-    "static/js/main.4a83d81b.chunk.js"
+    "static/js/2.0c9d138a.chunk.js",
+    "static/css/main.5eaa268e.chunk.css",
+    "static/js/main.f83428ad.chunk.js"
   ]
 }
