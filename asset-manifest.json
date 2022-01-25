@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/NicoIhleCode/static/css/main.a8ec9a81.chunk.css",
-    "main.js": "/NicoIhleCode/static/js/main.35c9ec35.chunk.js",
-    "main.js.map": "/NicoIhleCode/static/js/main.35c9ec35.chunk.js.map",
-    "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.a47534bb.js",
-    "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.a47534bb.js.map",
+    "main.js": "/NicoIhleCode/static/js/main.eb1c130b.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.eb1c130b.chunk.js.map",
+    "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.7abdb6f9.js",
+    "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.7abdb6f9.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.0c9d138a.chunk.js": "/NicoIhleCode/static/js/2.0c9d138a.chunk.js",
-    "static/js/2.0c9d138a.chunk.js.map": "/NicoIhleCode/static/js/2.0c9d138a.chunk.js.map",
-    "static/js/3.1cafaca8.chunk.js": "/NicoIhleCode/static/js/3.1cafaca8.chunk.js",
-    "static/js/3.1cafaca8.chunk.js.map": "/NicoIhleCode/static/js/3.1cafaca8.chunk.js.map",
+    "static/js/2.feb03120.chunk.js": "/NicoIhleCode/static/js/2.feb03120.chunk.js",
+    "static/js/2.feb03120.chunk.js.map": "/NicoIhleCode/static/js/2.feb03120.chunk.js.map",
+    "static/js/3.ff184aeb.chunk.js": "/NicoIhleCode/static/js/3.ff184aeb.chunk.js",
+    "static/js/3.ff184aeb.chunk.js.map": "/NicoIhleCode/static/js/3.ff184aeb.chunk.js.map",
     "index.html": "/NicoIhleCode/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.a8ec9a81.chunk.css.map": "/NicoIhleCode/static/css/main.a8ec9a81.chunk.css.map",
-    "static/js/2.0c9d138a.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.0c9d138a.chunk.js.LICENSE.txt",
+    "static/js/2.feb03120.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.feb03120.chunk.js.LICENSE.txt",
     "static/media/DSC0E0172.feffb394.JPG": "/NicoIhleCode/static/media/DSC0E0172.feffb394.JPG",
     "static/media/DSC0E0324.279aa6ba.JPG": "/NicoIhleCode/static/media/DSC0E0324.279aa6ba.JPG",
     "static/media/apfel(1).31a8206d.png": "/NicoIhleCode/static/media/apfel(1).31a8206d.png",
@@ -25,10 +25,10 @@
     "static/media/undraw_personalization_re_grty.0417656e.svg": "/NicoIhleCode/static/media/undraw_personalization_re_grty.0417656e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a47534bb.js",
+    "static/js/runtime-main.7abdb6f9.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.0c9d138a.chunk.js",
+    "static/js/2.feb03120.chunk.js",
     "static/css/main.a8ec9a81.chunk.css",
-    "static/js/main.35c9ec35.chunk.js"
+    "static/js/main.eb1c130b.chunk.js"
   ]
 }
