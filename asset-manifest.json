@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NicoIhleCode/static/css/main.44c9e86e.chunk.css",
-    "main.js": "/NicoIhleCode/static/js/main.e7d32408.chunk.js",
-    "main.js.map": "/NicoIhleCode/static/js/main.e7d32408.chunk.js.map",
+    "main.js": "/NicoIhleCode/static/js/main.78f66cb3.chunk.js",
+    "main.js.map": "/NicoIhleCode/static/js/main.78f66cb3.chunk.js.map",
     "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.7abdb6f9.js",
     "runtime-main.js.map": "/NicoIhleCode/static/js/runtime-main.7abdb6f9.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.3d5207e1.chunk.js",
     "static/css/main.44c9e86e.chunk.css",
-    "static/js/main.e7d32408.chunk.js"
+    "static/js/main.78f66cb3.chunk.js"
   ]
 }
