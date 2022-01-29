@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NicoIhleCode/static/css/main.cf9040fd.chunk.css",
+    "main.css": "/NicoIhleCode/static/css/main.6f3eeb72.chunk.css",
     "main.js": "/NicoIhleCode/static/js/main.66a8dd00.chunk.js",
     "main.js.map": "/NicoIhleCode/static/js/main.66a8dd00.chunk.js.map",
     "runtime-main.js": "/NicoIhleCode/static/js/runtime-main.7abdb6f9.js",
@@ -12,7 +12,7 @@
     "static/js/3.ff184aeb.chunk.js.map": "/NicoIhleCode/static/js/3.ff184aeb.chunk.js.map",
     "index.html": "/NicoIhleCode/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/NicoIhleCode/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.cf9040fd.chunk.css.map": "/NicoIhleCode/static/css/main.cf9040fd.chunk.css.map",
+    "static/css/main.6f3eeb72.chunk.css.map": "/NicoIhleCode/static/css/main.6f3eeb72.chunk.css.map",
     "static/js/2.53bf66b1.chunk.js.LICENSE.txt": "/NicoIhleCode/static/js/2.53bf66b1.chunk.js.LICENSE.txt",
     "static/media/App.css": "/NicoIhleCode/static/media/shridhar-thorat-RQ1X0LPWuk8-unsplash.30b3613d.jpg",
     "static/media/DSC0E0172.feffb394.JPG": "/NicoIhleCode/static/media/DSC0E0172.feffb394.JPG",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.7abdb6f9.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.53bf66b1.chunk.js",
-    "static/css/main.cf9040fd.chunk.css",
+    "static/css/main.6f3eeb72.chunk.css",
     "static/js/main.66a8dd00.chunk.js"
   ]
 }
